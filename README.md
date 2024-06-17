@@ -1,3 +1,4 @@
+![logo](https://github.com/Harshit00008/Harshit00008/blob/main/Purple%20Modern%20Gaming%20Multipurpose%20Youtube%20Banner%20(2).jpg)
 <h1 align="center">Hi 👋, I'm Harshit Agrahari</h1>
 <h3 align="center">A passionate Data-Scientist and Analyst who's delves into numbers and algorithms</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Harshit00008/Harshit00008/blob/main/Purple%20White%20Vibrant%20Digital%20Marketing%20Service%20Advertising%20Flyer.gif">
